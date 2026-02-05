@@ -229,9 +229,9 @@ export default function Home() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { icon: Clock, value: 10, suffix: '+', label: 'Years Experience' },
-              { icon: Wrench, value: 9000, suffix: '+', label: 'Workshops Serviced' },
-              { icon: Settings, value: 1300, suffix: '+', label: 'Products & Services' },
+              { icon: Clock, value: 7, suffix: '+', label: 'Years Experience' },
+              { icon: Wrench, value: 3000, suffix: '+', label: 'Workshops Serviced' },
+              { icon: Settings, value: 270, suffix: '+', label: 'Products & Services' },
               { icon: Zap, value: 3700, suffix: '+', label: 'Annual Transactions' }
             ].map((stat, index) => (
               <Card key={index} className="p-6 bg-white/5 border-primary/30 hover:border-primary/60 transition-all group hover:shadow-lg hover:shadow-primary/20">
@@ -365,8 +365,8 @@ export default function Home() {
 
               <div className="space-y-6">
                 {[
-                  { icon: Award, title: '10+ Years Experience', desc: 'Two decades of automotive diagnostic expertise' },
-                  { icon: Users, title: '9000+ Happy Clients', desc: 'Trusted by workshops and dealerships worldwide' },
+                  { icon: Award, title: '7+ Years Experience', desc: 'Two decades of automotive diagnostic expertise' },
+                  { icon: Users, title: '3000+ Happy Clients', desc: 'Trusted by workshops and dealerships worldwide' },
                   { icon: Globe, title: 'Global Coverage', desc: '24/7 remote support across all timezones' }
                 ].map((item, idx) => (
                   <div key={idx} className="flex gap-4 items-start p-4 rounded-xl bg-card/50 border border-primary/10 hover:border-primary/30 transition-all">
