@@ -35,7 +35,7 @@ const FloatingContactButton = () => {
 
                 {/* Telegram Button */}
                 <a
-                    href="https://t.me/techlineautomotive"
+                    href="https://t.me/muhammadwaqar"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center gap-3 bg-[#0088cc] hover:bg-[#0077b5] text-white px-4 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
