@@ -365,7 +365,7 @@ export default function Home() {
 
               <div className="space-y-6">
                 {[
-                  { icon: Award, title: '20+ Years Experience', desc: 'Two decades of automotive diagnostic expertise' },
+                  { icon: Award, title: '10+ Years Experience', desc: 'Two decades of automotive diagnostic expertise' },
                   { icon: Users, title: '9000+ Happy Clients', desc: 'Trusted by workshops and dealerships worldwide' },
                   { icon: Globe, title: 'Global Coverage', desc: '24/7 remote support across all timezones' }
                 ].map((item, idx) => (
