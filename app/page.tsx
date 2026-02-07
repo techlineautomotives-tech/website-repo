@@ -611,12 +611,7 @@ export default function Home() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4 text-primary">Connect</h4>
-              <div className="flex gap-4">
-                <a href="#" className="text-foreground/60 hover:text-primary transition-colors">Facebook</a>
-                <a href="#" className="text-foreground/60 hover:text-primary transition-colors">Instagram</a>
-                <a href="#" className="text-foreground/60 hover:text-primary transition-colors">LinkedIn</a>
-              </div>
+             
             </div>
           </div>
 
