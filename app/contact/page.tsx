@@ -227,7 +227,7 @@ export default function ContactPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg" variant="secondary" className="font-semibold">
-              <a href="tel:+1234567890">Call Now</a>
+              <a href="tel:+13073106871">Call Now</a>
             </Button>
             <Button asChild size="lg" variant="secondary" className="font-semibold">
               <Link href="/services">View Services</Link>
